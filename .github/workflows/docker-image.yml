@@ -28,5 +28,5 @@ jobs:
           context: .
           push: true
           tags: | 
-            fujikomalan/flaskapp-action:latest
-            fujikomalan/flaskapp-action:${{ github.sha }}
+            sreevasmk1993/flaskapp-action:latest
+            sreevasmk1993/flaskapp-action:${{ github.sha }}
